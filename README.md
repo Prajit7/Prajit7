@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prajit Bhat 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · Fintech · Flutter</b> — building real-time options trading experiences for mobile & web at <b>Fyers</b>
+  <b>Software Engineer · Fintech · Flutter</b> — building real-time options trading experiences for mobile & web
 </p>
 
 <p align="center">
