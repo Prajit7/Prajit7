@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prajit Bhat 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · Flutter</b> — building real-time trading and healthcare apps for mobile & web
+  <b>Software Engineer · Fintech · Flutter</b> — building real-time options trading experiences for mobile & web at <b>Fyers</b>
 </p>
 
 <p align="center">
@@ -15,8 +15,9 @@
 ### 🧑‍💻 About me
 
 - 💼 **3.5+ years** shipping production Flutter apps across Android, iOS and Web
-- 📈 Currently at **[Fyers](https://fyers.in)** on the **Options Trading** team — Option Chain, Leg Journey strategy builder, Multi-Order Window and order flows
-- 🏥 Previously at **Starmark Software** — built healthcare apps **VitalGo**, **VitalDx+** and **VitalTrack** (real-time alerts, pathology workflows, specimen logistics)
+- 📈 Currently a **Software Engineer – Options Trading** at **[Fyers](https://fyers.in)** (fintech / stock broking)
+  - Own the **Option Chain** module, built the **Leg Journey** strategy builder end-to-end, and work on Multi-Order Window, baskets, charts and order flows
+- 🕘 Previously at **Starmark Software** (2022–2025) — built healthcare apps **VitalGo**, **VitalDx+** and **VitalTrack** (real-time alerts, pathology workflows, specimen logistics)
 - 🧱 I care about clean architecture: **BLoC**, repository pattern, **SOLID**, and keeping apps fast
 - 🎓 B.E. Computer Science, Jain College of Engineering (GPA 9.2/10)
 
