@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prajit-bhat-2596b31a7/"><img src="https://img.shields.io/badge/LinkedIn-Prajit%20Bhat-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:prajit7.bhat@gmail.com"><img src="https://img.shields.io/badge/Email-prajit7.bhat%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://pub.dev/packages/flutter_charts_kit"><img src="https://img.shields.io/badge/pub.dev-flutter__charts__kit-0175C2?logo=dart&logoColor=white" alt="pub.dev"></a>
+  <a href="https://pub.dev/packages/fidelity"><img src="https://img.shields.io/badge/pub.dev-fidelity-0175C2?logo=dart&logoColor=white" alt="fidelity on pub.dev"></a>
+  <a href="https://pub.dev/packages/flutter_charts_kit"><img src="https://img.shields.io/badge/pub.dev-flutter__charts__kit-0175C2?logo=dart&logoColor=white" alt="flutter_charts_kit on pub.dev"></a>
 </p>
 
 ---
@@ -18,12 +19,30 @@
 - 📈 Currently a **Software Engineer – Options Trading** at **[Fyers](https://fyers.in)** (fintech / stock broking)
   - Own the **Option Chain** module, built the **Leg Journey** strategy builder end-to-end, and work on Multi-Order Window, baskets, charts and order flows
 - 🕘 Previously at **Starmark Software** (2022–2025) — built healthcare apps **VitalGo**, **VitalDx+** and **VitalTrack** (real-time alerts, pathology workflows, specimen logistics)
+- 📦 Author of open-source Flutter packages **[fidelity](https://pub.dev/packages/fidelity)** and **[flutter_charts_kit](https://pub.dev/packages/flutter_charts_kit)** on pub.dev
 - 🧱 I care about clean architecture: **BLoC**, repository pattern, **SOLID**, and keeping apps fast
 - 🎓 B.E. Computer Science, Jain College of Engineering (GPA 9.2/10)
 
-### ⭐ Featured project
+### 📦 Open-source Flutter packages
 
 <table>
+<tr>
+<td width="55%">
+
+#### [fidelity](https://github.com/Prajit7/fidelity)
+
+Keeps Flutter apps **smooth on cheap phones without making them plain on good ones**. Watches real frame timings and steps blur, shadows and particles down when the device struggles, then back up when it recovers. Includes drop-in `AdaptiveBlur` widgets and a debug overlay. **Pure Dart, zero dependencies.**
+
+[![pub](https://img.shields.io/pub/v/fidelity?color=0175C2&logo=dart)](https://pub.dev/packages/fidelity)
+[![points](https://img.shields.io/pub/points/fidelity?logo=flutter)](https://pub.dev/packages/fidelity/score)
+
+**[📦 pub.dev](https://pub.dev/packages/fidelity)** · **[📖 README](https://github.com/Prajit7/fidelity#readme)**
+
+</td>
+<td width="45%">
+<a href="https://github.com/Prajit7/fidelity"><img src="https://raw.githubusercontent.com/Prajit7/fidelity/main/doc/demo.png" alt="fidelity demo app with glass cards and quality levels"></a>
+</td>
+</tr>
 <tr>
 <td width="55%">
 
