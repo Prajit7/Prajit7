@@ -62,6 +62,14 @@ Interactive **3D surface** and **2D line / bar / pie / scatter** charts for Flut
 </tr>
 </table>
 
+### 🎮 Side projects
+
+#### [Memory Palace](https://github.com/Prajit7/memory-palace) · [▶️ Play it](https://play-memory-palace.vercel.app)
+
+A Flutter game that teaches the **method of loci**, the technique memory champions use. Walk through a 9-room house where something strange is happening at every stop, then recall **what was where**, **where you left each thing**, and **the order you passed them**. 16 levels go from 5 to 20 items, with fresh random scenes on every try, stars, light/dark themes and a phone-first layout on the web.
+
+<a href="https://play-memory-palace.vercel.app"><img src="assets/memory-palace.png" alt="Memory Palace: home screen, a walk stop with a lion by the garden gate, and a recall question on the floor plan"></a>
+
 ### 🛠️ Tech stack
 
 **Mobile & Web**
