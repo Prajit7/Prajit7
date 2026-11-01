@@ -48,16 +48,16 @@ Keeps Flutter apps **smooth on cheap phones without making them plain on good on
 
 #### [flutter_charts_kit](https://github.com/Prajit7/flutter_charts_kit)
 
-Interactive **3D surface** and **2D line / bar / pie / scatter** charts for Flutter — rotate, zoom, tooltips, theming and animations, with **zero dependencies**.
+**18 interactive chart types** for Flutter: line, area, bar, combo, pie, scatter, heatmap, radar, gauge, treemap, Sankey and more, plus **3D surface, bars and scatter**. Includes a **live trading chart** with a flashing last-price tag, SMA/EMA, Bollinger, VWAP, RSI and MACD, and pinch-zoom/swipe navigation. Handles 100k-point series, dark mode and screen readers. **Pure Flutter, zero dependencies.**
 
 [![pub](https://img.shields.io/pub/v/flutter_charts_kit?color=0175C2&logo=dart)](https://pub.dev/packages/flutter_charts_kit)
 [![points](https://img.shields.io/pub/points/flutter_charts_kit?logo=flutter)](https://pub.dev/packages/flutter_charts_kit/score)
 
-**[🚀 Live demo](https://flutter-charts-kit-gap4-flame.vercel.app/)** · **[📦 pub.dev](https://pub.dev/packages/flutter_charts_kit)**
+**[🚀 Live demo](https://flutter-charts-kit-gap4-flame.vercel.app/)** · **[📦 pub.dev](https://pub.dev/packages/flutter_charts_kit)** · **[📖 README](https://github.com/Prajit7/flutter_charts_kit#readme)**
 
 </td>
 <td width="45%">
-<a href="https://github.com/Prajit7/flutter_charts_kit"><img src="https://raw.githubusercontent.com/Prajit7/flutter_charts_kit/main/example/assets/3d.png" alt="flutter_charts_kit 3D surface chart"></a>
+<a href="https://github.com/Prajit7/flutter_charts_kit"><img src="https://raw.githubusercontent.com/Prajit7/flutter_charts_kit/main/example/assets/trading.png" alt="flutter_charts_kit trading chart with indicators, RSI and MACD"></a>
 </td>
 </tr>
 </table>
